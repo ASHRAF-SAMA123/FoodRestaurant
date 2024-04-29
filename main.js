@@ -68,9 +68,11 @@ var swiper = new Swiper(".review-slider", {
 
 // function loader(){
 //   document.querySelector(".loader").classList.add("fade-out")
+//   document.querySelector(".loader").classList.remove("loader")
+
 // }
 // function fadeOut(){
-//   SET(loader, 3000)
+//   setInterval(loader, 3000)
 // }
 
 // window.onload = fadeOut;

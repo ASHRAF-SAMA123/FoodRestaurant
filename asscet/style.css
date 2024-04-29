@@ -550,10 +550,10 @@ width: 49%;
     width: 35rem;
   }
 
-  .loader .fade-out{
-    /* top:110%; */
-    opacity:0;
-  } */
+   .loader .fade-out{
+     top:110%; 
+     opacity:0;
+  }  */
 
 
 
